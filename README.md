@@ -4,6 +4,14 @@
 
 D3 implementation of tube map. Component extracted from [beefoo/memory-underground](https://github.com/beefoo/memory-underground). All credits go to @beefoo.
 
+## TODO
+
+- remove jquery dependency
+- remove underscore dependency
+- update D3
+- clean up code and document options
+- implement as separate module and publish as npm package
+
 ## Development
 
 In the project directory, you can run:
