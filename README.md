@@ -2,7 +2,7 @@
 
 # D3 tube map
 
-D3 implementation of tube map. Component extracted from [beefoo/memory-underground](https://github.com/beefoo/memory-underground). All credits go to @beefoo.
+D3 implementation of tube map. Component extracted from [beefoo/memory-underground](https://github.com/beefoo/memory-underground). All credits go to @beefoo. [Example](https://stereobooster.github.io/d3-tube/).
 
 ## TODO
 
