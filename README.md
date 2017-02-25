@@ -9,6 +9,7 @@ D3 implementation of tube map. Component extracted from [beefoo/memory-undergrou
 - remove jquery dependency
 - remove underscore dependency
 - update D3
+- use D3 [pan zoom](https://bl.ocks.org/mbostock/7ec977c95910dd026812) instead of jquery plugin (or simple [d3.zoom](https://coderwall.com/p/psogia/simplest-way-to-add-zoom-pan-on-d3-js))
 - clean up code and document options
 - implement as separate module and publish as npm package
 
