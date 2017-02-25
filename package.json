@@ -1,0 +1,21 @@
+{
+  "name": "d3-tube",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.9.0"
+  },
+  "dependencies": {
+    "d3": "3.4.13",
+    "jquery": "1.11.1",
+    "jquery.panzoom": "^3.2.2",
+    "modernizr": "^3.3.1",
+    "underscore": "1.6.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
